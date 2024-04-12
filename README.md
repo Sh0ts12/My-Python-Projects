@@ -19,12 +19,13 @@ Current version features:
 - Obstacle (wall)
 - Bounce platform (Triangle)
 
+
 Edit mode Press "o":
 
 - Press "o" to enable or disable.
-- ALlows for dragging (using cursor) around elements to desired location
-- Includes interaktion indicator (highlights the element when hovering with mouse)
-- Allows for obstacle wall to move as a whole by pressing Lshift + mouse click instead of having to set the length manually with the walls start and end points.
+- Allows for dragging (using cursor) around elements to desired location
+- Includes interaction indicator (highlights the element when hovering with mouse)
+- Allows for obstacle wall to move as a whole by pressing Lshift + mouse click instead of having to set the length manually with the walls start and endpoints.
 
 Work to be done:
 order of next implementations:
@@ -38,4 +39,7 @@ order of next implementations:
 
 - The reflection system of the bullet:
 
-- More comprehensive level design editing inerface
+- More comprehensive level design editing interface
+
+
+
